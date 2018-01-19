@@ -23,7 +23,9 @@ body {
   font: 18px/1.4 $helvetica;
   color: #ff0000;
 }
-
+table, th, td {
+   border: 5px #0000ff;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
