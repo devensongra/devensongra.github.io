@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Coding and Assembling Fuze Boxes</td>
     <td>Date</td>
-    <td>25/02/18</td>
+    <td>31/02/18</td>
   </tr>
 </table>
 
