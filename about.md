@@ -1,15 +1,10 @@
 ---
 layout: page
-title: About
+title: About 
 permalink: /about/
 ---
-
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Hi, My name is Deven and I am writing the blog for IT Year 8 2018 With MR.AK
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[devensongra@devenmail.com](mailto:ayy@devenmail.com)
