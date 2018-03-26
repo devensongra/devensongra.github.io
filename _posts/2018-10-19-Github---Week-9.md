@@ -57,5 +57,4 @@ published: true
     <td>Next time I would just change a few things as for example I would quickly do this and not waste a single bit of time and therefore we can move on but really We couldn't move on because you need about 20 minutes to gather things together for the next segment which is robots. </td>
   </tr>
 </table>
-
-
+<iframe src="https://drive.google.com/file/d/1zRllQsOhWvQVAavwaFmT5G7vCuvcR53g/preview" width="640" height="480"></iframe>
