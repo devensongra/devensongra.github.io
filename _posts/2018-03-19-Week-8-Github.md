@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Week 8 </td>
     <td>Date</td>
-    <td>12/09/2018</td>
+    <td>19/03/2018</td>
   </tr>
 </table>
 
