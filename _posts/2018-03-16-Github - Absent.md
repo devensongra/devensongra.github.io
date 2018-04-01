@@ -11,7 +11,7 @@ published: true
     <td>Title</td>
     <td>Week 7 Cologne</td>
     <td>Date</td>
-    <td>26/01/18</td>
+    <td>16/03/18</td>
   </tr>
 </table>
 
